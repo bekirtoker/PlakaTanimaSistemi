@@ -5,3 +5,15 @@ Projeyi çalıştırmak için, projeyi indirdiğiniz dizinin komut isteminde aş
 ```python
 python CarPlateRecognitionSystem.py
 ```
+## 📷 Proje Görselleri
+
+### 🚘 Örnek Plaka Tespitleri
+![21AAL174](images/21AAL174.png)
+![26DM710](images/26DM710.png)
+![34NY1180](images/34NY1180.png)
+
+### 🖥️ Kayıt Ekranı
+![Kayıt Ekranı](images/KayitEkrani.png)
+
+### 📋 Kayıtlı Plakalar
+![Kayıtlı Plakalar](images/KayitliPlakalar.png)
